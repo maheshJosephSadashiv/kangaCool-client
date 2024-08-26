@@ -1,0 +1,1 @@
+export const baseUri = "http://django-dev.eba-wpqi3qdy.us-west-2.elasticbeanstalk.com";
